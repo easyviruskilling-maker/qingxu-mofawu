@@ -1,0 +1,20 @@
+{
+  "name": "小小情绪魔法屋",
+  "short_name": "情绪魔法屋",
+  "description": "给小朋友的情绪启蒙小游戏：认识情绪、说出想法、和朋友相处、变得更勇敢。小兔暖暖全程语音陪玩，可离线使用。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "background_color": "#FFF9F4",
+  "theme_color": "#E7DDFF",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
